@@ -1,0 +1,12 @@
+
+
+#krosoft_marquee {
+	DISPLAY: none; Z-INDEX: 1000; LEFT: 0px; OVERFLOW: hidden; WIDTH: 100%; BOTTOM: 0px; PADDING-TOP: 0px; POSITION: absolute; HEIGHT: 22px; BACKGROUND-COLOR: #000000
+}
+
+#krosoft_marquee .textObj {
+	padding-top: 1px; font-family: Tahoma,sans-serif; color: #ffffff; font-size: 11px; WHITE-SPACE: nowrap; POSITION: absolute; letter-spacing: 1px;
+}
+
+#krosoft_marquee a:link, #krosoft_marquee  a:visited, #krosoft_marquee a:active {color:#ffffff; text-decoration: none; font-weight: bold; }
+#krosoft_marquee a:hover {text-decoration: underline;}

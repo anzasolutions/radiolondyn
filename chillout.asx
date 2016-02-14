@@ -1,0 +1,19 @@
+<asx version = "3.0">
+  <Title>www.RadioLDN.net</Title> 
+  <Author>Radio LDN</Author>
+  <Copyright>2008 www.radioldn.net</Copyright>
+  <entry>
+    <PARAM name="HTMLView" value="http://citiradio.ovh.org/wmp.html"/>
+    <MoreInfo href = "www.radioldn.net" />
+    <ref href = "http://esr.rootnode.net:8021"/>
+    <Title>Radio LDN: CHILLOUT II (www.RadioLDN.net)</Title> 
+    <Author>www.RadioLDN.net</Author>
+  </entry>
+  <entry>
+    <PARAM name="HTMLView" value="http://citiradio.ovh.org/wmp.html"/>
+    <MoreInfo href = "www.radioldn.net" />
+    <ref href = "http://sc1.readycast.org:8440"/>
+    <Title>Radio LDN: CHILLOUT I (www.RadioLDN.net)</Title> 
+    <Author>www.RadioLDN.net</Author>
+  </entry>
+</asx>

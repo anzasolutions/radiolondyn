@@ -1,0 +1,15 @@
+<asx version = "3.0">
+  <Title>RGFM.Net</Title> 
+  <Author>www.rgfm.net</Author>
+  <Copyright>www.goniec.com</Copyright>
+  <PARAM name="HTMLView" value="http://www.rgfm.net/wmp.html"/>
+  <MoreInfo href = "www.rgfm.net" />
+    <entry>
+    <ref href = "http://rgfm.net:9000"/>
+    <Title>Rock 128K Stereo</Title> 
+    <Author>RGFM.Net</Author>
+  </entry>
+
+</asx>
+
+

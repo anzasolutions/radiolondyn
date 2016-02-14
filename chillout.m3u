@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Radio LDN: CHILLOUT II (www.RadioLDN.net)
+http://esr.rootnode.net:8021
+#EXTINF:-1,Radio LDN: CHILLOUT I (www.RadioLDN.net)
+http://sc1.readycast.org:8440
+#EXTINF:-1,Radio LDN: DISCO POLO II (www.RadioLDN.net)
+http://esr.rootnode.net:8019
+#EXTINF:-1,Radio LDN: DISCO POLO I (www.RadioLDN.net)
+http://sc1.readycast.org:8544
+#EXTINF:-1,Radio LDN: LIVE II (www.RadioLDN.net)
+http://87.98.149.146:8000
+#EXTINF:-1,Radio LDN: LIVE I (www.RadioLDN.net)
+http://sc2.readycast.org:8666
+#EXTINF:-1,Radio LDN: POLSKA NA TOPIE II (www.RadioLDN.net)
+http://89.248.166.198:8017
+#EXTINF:-1,Radio LDN: POLSKA NA TOPIE I (www.RadioLDN.net)
+http://sc1.readycast.org:8888
+#EXTINF:-1,Radio LDN: UK CHARTS II (www.RadioLDN.net)
+http://esr.rootnode.net:8030
+#EXTINF:-1,Radio LDN: UK CHARTS I (www.RadioLDN.net)
+http://sc1.readycast.org:8026
+#EXTINF:-1,Radio LDN: TRANCE II (www.RadioLDN.net)
+http://esr.rootnode.net:8032
+#EXTINF:-1,Radio LDN: TRANCE I (www.RadioLDN.net)
+http://sc1.readycast.org:8558

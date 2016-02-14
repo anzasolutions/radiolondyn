@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,RGFM.Net - Rock 128K Stereo
+http://rgfm.net:9000
+#EXTINF:-1,RGFM.Net - Rock 64K Mono
+http://rgfm.net:9100

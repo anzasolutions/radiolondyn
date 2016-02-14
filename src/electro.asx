@@ -1,0 +1,25 @@
+<asx version = "3.0">
+  <Title>DI.fm Electro House channel!</Title> 
+  <Author>Digitally Imported</Author>
+  <Copyright>2007 www.di.fm</Copyright>
+  <REPEAT>
+  <entry>
+    <PARAM name="HTMLView" value="http://www.di.fm/NowPlaying/electro"/>
+    <ref href = "mms://wstream5e.di.fm/electro"/>
+    <Title>Electro House @ www.di.fm</Title> 
+    <Author>Upgrade to DI.fm PREMIUM at http://www.di.fm/premium</Author>
+  </entry>
+  <entry>
+    <PARAM name="HTMLView" value="http://www.di.fm/NowPlaying/electro"/>
+    <ref href = "mms://wstream5g.di.fm/electro"/>
+    <Title>Electro House @ www.di.fm</Title> 
+    <Author>Upgrade to DI.fm PREMIUM at http://www.di.fm/premium</Author>
+  </entry>
+  <entry>
+    <PARAM name="HTMLView" value="http://www.di.fm/NowPlaying/electro"/>
+    <ref href = "mms://wstream5c.di.fm/electro"/>
+    <Title>Electro House @ www.di.fm</Title> 
+    <Author>Upgrade to DI.fm PREMIUM at http://www.di.fm/premium</Author>
+  </entry>
+  </REPEAT>
+</asx>
